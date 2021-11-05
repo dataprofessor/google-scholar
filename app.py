@@ -96,7 +96,7 @@ def get_next_link_2(ORGID, next_link, page_index):
 st.set_page_config(layout='wide')
 
 st.markdown('''
-# Scholar App
+# Scholar App 📚
 This App retrieves researcher citation data from ***Google Scholar***.
 ''')
 
